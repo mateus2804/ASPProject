@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateus.ferraz\\source\\repos\\WebAplicationMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8312A-8704-4D1F-A642-6C7AC3527AE4}|WebAplicationMVC\\WebAplicationMVC.csproj|c:\\users\\mateus.ferraz\\source\\repos\\webaplicationmvc\\webaplicationmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8312A-8704-4D1F-A642-6C7AC3527AE4}|WebAplicationMVC\\WebAplicationMVC.csproj|solutionrelative:webaplicationmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8312A-8704-4D1F-A642-6C7AC3527AE4}|WebAplicationMVC\\WebAplicationMVC.csproj|c:\\users\\mateus.ferraz\\source\\repos\\webaplicationmvc\\webaplicationmvc\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8312A-8704-4D1F-A642-6C7AC3527AE4}|WebAplicationMVC\\WebAplicationMVC.csproj|solutionrelative:webaplicationmvc\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8312A-8704-4D1F-A642-6C7AC3527AE4}|WebAplicationMVC\\WebAplicationMVC.csproj|c:\\users\\mateus.ferraz\\source\\repos\\webaplicationmvc\\webaplicationmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8312A-8704-4D1F-A642-6C7AC3527AE4}|WebAplicationMVC\\WebAplicationMVC.csproj|solutionrelative:webaplicationmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\mateus.ferraz\\source\\repos\\WebAplicationMVC\\WebAplicationMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "WebAplicationMVC\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\mateus.ferraz\\source\\repos\\WebAplicationMVC\\WebAplicationMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "WebAplicationMVC\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:15:06.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mateus.ferraz\\source\\repos\\WebAplicationMVC\\WebAplicationMVC\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebAplicationMVC\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mateus.ferraz\\source\\repos\\WebAplicationMVC\\WebAplicationMVC\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebAplicationMVC\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:38:22.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\mateus.ferraz\\source\\repos\\WebAplicationMVC\\WebAplicationMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebAplicationMVC\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\mateus.ferraz\\source\\repos\\WebAplicationMVC\\WebAplicationMVC\\Models\\Department.cs",
+              "RelativeToolTip": "WebAplicationMVC\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:32:22.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
